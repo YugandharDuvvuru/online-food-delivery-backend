@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b62e5e5-b1b3-4189-bf5d-facd9f44fbe2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/client/OwnerServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/client/UserAndOwnerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/client/UserServiceClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/config/AuthServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/service/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authservice/src/main/java/com/cts/authservice/service/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/authservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/client/MenuClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/client/MenuAndRestaurantClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/client/RestaurantClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/service/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/service/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/client/RestaurantClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/client/RestaurantClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/controller/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/service/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/service/MenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/service/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/src/main/java/com/cts/menuservice/service/MenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/menuservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/client/CartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/client/CartAndMenuClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/client/MenuClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/dto/RestaurantOrderSummaryDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/dto/RestaurantOrderSummaryDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/entity/DeliveryAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/entity/DeliveryAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/service/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/service/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/orderservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/client/AuthClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/client/AuthAndMenuClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/client/MenuClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/controller/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/controller/OwnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/controller/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/controller/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/service/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/service/OwnerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/service/OwnerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/service/OwnerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ownerservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ownerservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/client/AuthClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/client/AuthClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/com/cts/userservice/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36NYd6qpzxXAPuMmByOddCK88GH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AuthserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CartserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EurekaserverApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OwnerserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2440915/Downloads/Online-Food-Delivery-Backend&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.OwnerserviceApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cts.api_gateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cts.api_gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cts.authservice.AuthserviceApplication" />
+      <module name="authservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cts.authservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cts.orderservice.OrderserviceApplication" />
+      <module name="orderservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cts.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cts.ownerservice.OwnerserviceApplication" />
+      <module name="ownerservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cts.ownerservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cts.userservice.UserserviceApplication" />
+      <module name="userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cts.userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderserviceApplication" />
+        <item itemvalue="Application.OwnerserviceApplication" />
+        <item itemvalue="Application.UserserviceApplication" />
+        <item itemvalue="Application.AuthserviceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b62e5e5-b1b3-4189-bf5d-facd9f44fbe2" name="Changes" comment="" />
+      <created>1764848581242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764848581242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eurekaserver/src/main/java/com/cts/eurekaserver/EurekaserverApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/controller/CartController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/OrderserviceApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cartservice/src/main/java/com/cts/cartservice/CartserviceApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ownerservice/src/main/java/com/cts/ownerservice/OwnerserviceApplication.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/orderservice/src/main/java/com/cts/orderservice/entity/DeliveryAddress.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
